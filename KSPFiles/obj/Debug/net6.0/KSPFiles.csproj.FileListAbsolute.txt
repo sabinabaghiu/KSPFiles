@@ -1,0 +1,15 @@
+D:\Projects\KSPFiles\KSPFiles\bin\Debug\net6.0\KSPFiles.exe
+D:\Projects\KSPFiles\KSPFiles\bin\Debug\net6.0\KSPFiles.deps.json
+D:\Projects\KSPFiles\KSPFiles\bin\Debug\net6.0\KSPFiles.runtimeconfig.json
+D:\Projects\KSPFiles\KSPFiles\bin\Debug\net6.0\KSPFiles.dll
+D:\Projects\KSPFiles\KSPFiles\bin\Debug\net6.0\KSPFiles.pdb
+D:\Projects\KSPFiles\KSPFiles\obj\Debug\net6.0\KSPFiles.csproj.AssemblyReference.cache
+D:\Projects\KSPFiles\KSPFiles\obj\Debug\net6.0\KSPFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\KSPFiles\KSPFiles\obj\Debug\net6.0\KSPFiles.AssemblyInfoInputs.cache
+D:\Projects\KSPFiles\KSPFiles\obj\Debug\net6.0\KSPFiles.AssemblyInfo.cs
+D:\Projects\KSPFiles\KSPFiles\obj\Debug\net6.0\KSPFiles.csproj.CoreCompileInputs.cache
+D:\Projects\KSPFiles\KSPFiles\obj\Debug\net6.0\KSPFiles.dll
+D:\Projects\KSPFiles\KSPFiles\obj\Debug\net6.0\refint\KSPFiles.dll
+D:\Projects\KSPFiles\KSPFiles\obj\Debug\net6.0\KSPFiles.pdb
+D:\Projects\KSPFiles\KSPFiles\obj\Debug\net6.0\KSPFiles.genruntimeconfig.cache
+D:\Projects\KSPFiles\KSPFiles\obj\Debug\net6.0\ref\KSPFiles.dll
